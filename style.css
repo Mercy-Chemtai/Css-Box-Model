@@ -1,0 +1,36 @@
+#form1{
+    border:1px solid;
+    margin:25px;
+    padding: 30px;
+    width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    height: 940px;
+    background-color: whitesmoke;
+    position:absolute;top:2px;right: 2px;
+    
+    
+
+}
+#input{
+    padding: 1px;
+    border-radius: 10px;
+    border:1px;
+    width: 100px;
+    background-color: blueviolet;
+    position:absolute;border-top-left-radius: ;
+}
+.button:{
+    padding: 1px;
+    color: grey;
+    margin: 70px;
+    background-color: blueviolet;
+
+}
+#Body{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+h1{
+font: size 150px;
+}
